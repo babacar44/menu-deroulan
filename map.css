@@ -1,0 +1,14 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  background-color: #C8C7DC;
+}
+
+#page{
+  border: 1px solid black;
+  width: 80%;
+  margin-left: 150px;
+  margin-right: 150px;
+  
+} 
+
